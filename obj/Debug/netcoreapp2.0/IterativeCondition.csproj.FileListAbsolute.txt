@@ -1,0 +1,10 @@
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\obj\Debug\netcoreapp2.0\IterativeCondition.csproj.CoreCompileInputs.cache
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\obj\Debug\netcoreapp2.0\IterativeCondition.AssemblyInfoInputs.cache
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\obj\Debug\netcoreapp2.0\IterativeCondition.AssemblyInfo.cs
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\bin\Debug\netcoreapp2.0\IterativeCondition.deps.json
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\bin\Debug\netcoreapp2.0\IterativeCondition.runtimeconfig.json
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\bin\Debug\netcoreapp2.0\IterativeCondition.runtimeconfig.dev.json
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\bin\Debug\netcoreapp2.0\IterativeCondition.dll
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\bin\Debug\netcoreapp2.0\IterativeCondition.pdb
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\obj\Debug\netcoreapp2.0\IterativeCondition.dll
+C:\Users\Rouz\Desktop\iterativeConditions\IterativeCondition\obj\Debug\netcoreapp2.0\IterativeCondition.pdb
